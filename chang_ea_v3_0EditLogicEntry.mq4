@@ -51,6 +51,7 @@ string txt_set;
 int OnInit()
   {
 //--- create timer
+    printf("test git pull");
    percent = percent/100;
    percent_cutloss=percent_cutloss/100;
    percent_tp = percent_tp/100;
